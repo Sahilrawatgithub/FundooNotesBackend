@@ -1,0 +1,57 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore compiled DLLs
+*.dll
+*.exe
+*.pdb
+
+# Ignore packages
+*.nupkg
+packages/
+
+# Ignore logs
+*.log
+
+# Ignore environment-specific files
+appsettings.json
+appsettings.*.json
+
+# Ignore secrets
+secrets.json
+
+# Ignore migrations if not needed
+Migrations/
+
+# Ignore publish output
+publish/
+*.publish.xml
+
+# Ignore dependency folders
+node_modules/
+wwwroot/lib/
+
+# Ignore test results
+TestResults/
+
+# Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# OS-specific ignores
+.DS_Store
+Thumbs.db

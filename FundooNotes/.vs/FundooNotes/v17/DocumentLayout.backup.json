@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A9948-BB56-4E8A-9D9D-1A89C71A947E}|..\\ConsumerLayer\\ConsumerLayer.csproj|d:\\bridgelabz\\fundoo\\consumerlayer\\helper\\gmailotpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A9948-BB56-4E8A-9D9D-1A89C71A947E}|..\\ConsumerLayer\\ConsumerLayer.csproj|d:\\bridgelabz\\fundoo\\consumerlayer\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|d:\\bridgelabz\\fundoo\\fundoonotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F012F5B5-4925-4262-B23B-A67260D6EB4A}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bridgelabz\\fundoo\\repositorylayer\\helper\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|d:\\bridgelabz\\fundoo\\fundoonotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|d:\\bridgelabz\\fundoo\\fundoonotes\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F012F5B5-4925-4262-B23B-A67260D6EB4A}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\bridgelabz\\fundoo\\repositorylayer\\service\\collabimplrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|d:\\bridgelabz\\fundoo\\fundoonotes\\controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|solutionrelative:controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|d:\\bridgelabz\\fundoo\\fundoonotes\\controllers\\collabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A814BC-FE61-4737-8EB3-68B58F6F4047}|FundooNotes.csproj|solutionrelative:controllers\\collabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\ConsumerLayer\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "..\\ConsumerLayer\\RabbitMqConsumerService.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\ConsumerLayer\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "..\\ConsumerLayer\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:20:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GmailOtpSender.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\ConsumerLayer\\Helper\\GmailOtpSender.cs",
+              "RelativeDocumentMoniker": "..\\ConsumerLayer\\Helper\\GmailOtpSender.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\ConsumerLayer\\Helper\\GmailOtpSender.cs",
+              "RelativeToolTip": "..\\ConsumerLayer\\Helper\\GmailOtpSender.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:14:11.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T23:59:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\RepositoryLayer\\Helper\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Helper\\AuthService.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\RepositoryLayer\\Helper\\AuthService.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Helper\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:12:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:09:50.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LabelController.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\LabelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LabelController.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\LabelController.cs",
+              "RelativeToolTip": "Controllers\\LabelController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwHAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:13:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CollabImplRL.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\RepositoryLayer\\Service\\CollabImplRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\CollabImplRL.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\RepositoryLayer\\Service\\CollabImplRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\CollabImplRL.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwLsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:10:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollabController.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\CollabController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollabController.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Controllers\\CollabController.cs",
+              "RelativeToolTip": "Controllers\\CollabController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:01:37.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BridgeLabz\\FUNDOO\\FundooNotes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:16:32.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
