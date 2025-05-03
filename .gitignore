@@ -13,6 +13,7 @@ obj/
 
 # Ignore Visual Studio Code workspace settings
 .vscode/
+.vs/
 
 # Ignore compiled DLLs
 *.dll

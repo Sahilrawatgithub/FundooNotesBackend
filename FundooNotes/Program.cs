@@ -14,6 +14,7 @@
     using NLog.Config;
     using NLog.Web;
     using StackExchange.Redis;
+    using Yarp.ReverseProxy; 
 
     namespace FundooNotes
     { 
@@ -38,7 +39,10 @@
                     builder.Services.AddDbContext<UserContext>(options =>
                         options.UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
-                    builder.Services.AddScoped<IUserRL, UserImplRL>();
+                    builder.Services.AddReverseProxy()
+                    .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
+
+                builder.Services.AddScoped<IUserRL, UserImplRL>();
                     builder.Services.AddScoped<IUserBL, UserImplBL>();
 
                     builder.Services.AddScoped<INotesRL, NotesImplRL>();
@@ -134,9 +138,10 @@
                 });
 
                 var app = builder.Build();
+                app.MapReverseProxy();
 
-                    // Configure the HTTP request pipeline.
-                    if (app.Environment.IsDevelopment())
+                // Configure the HTTP request pipeline.
+                if (app.Environment.IsDevelopment())
                     {
                         app.UseSwagger();
                         app.UseSwaggerUI();
